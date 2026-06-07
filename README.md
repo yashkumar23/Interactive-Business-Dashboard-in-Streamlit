@@ -147,7 +147,7 @@ Open a pull request for review.
 
 ## 📬 Contact
 
-- **GitHub**: `Shilpachhatani`
-- **Email**: shilpachhatani669@gmail.com
-
+- **GitHub**: `yashkumar23`
+- **Email**: yashchhatani7@gmail.com 
+  
 > _Designed with ❤️ — Interactive BI Dashboard | Streamlit | Global Superstore Dataset_
