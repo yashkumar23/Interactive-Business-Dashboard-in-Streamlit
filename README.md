@@ -81,7 +81,7 @@ Data cleaning steps performed in `app.py`:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Shilpachhatani/Interactive-Business-Dashboard-in-Streamlit.git
+git clone https://github.com/yashkumar23/Interactive-Business-Dashboard-in-Streamlit.git
 cd Interactive-Business-Dashboard-in-Streamlit
 
 # 2. Create virtual environment (optional but recommended)
